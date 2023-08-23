@@ -16,6 +16,7 @@ A frontend developer from Uzbekistan.  I’m currently learning **HTML, CSS, Jav
 💼 [All projects](https://mohamedxamid.uz)
 
 
+## Github statistics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedxamid&show_icons=true&locale=en&layout=compact" alt="mohamedxamid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedxamid&show_icons=true&locale=en" alt="mohamedxamid" /></p>
